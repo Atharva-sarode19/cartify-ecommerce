@@ -70,6 +70,16 @@ cartify-ecommerce/
 │       ├── increase.png
 │       └── decrease.png
 │
+├── screenshots/                 # Uploaded screenshots of the website
+│   ├── login-page.png
+│   ├── register-page.png
+│   ├── contactus-page.png
+│   ├── home-page.png
+│   ├── cart-page.png
+│   ├── trackorder-page.png
+│   ├── changepassword-page.png
+│   ├── admin-page.png
+│
 └── media/                        # Uploaded product images
 ```
 
