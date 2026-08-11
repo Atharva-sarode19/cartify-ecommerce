@@ -30,10 +30,10 @@ A full-stack **Django-based E-commerce Platform** built using **Python, Django, 
 ```text
 cartify-ecommerce/
 │
-├── manage.py                     # Django management script
-├── requirements.txt              # Project dependencies
-├── README.md                     # Project documentation
 ├── .gitignore                    # Ignored files and folders
+├── README.md                     # Project documentation
+├── manage.py                     # Django management script
+├── requirements.txt              # Project dependencies                     
 │
 ├── OnlineShopping/               # Main Django project configuration
 │   ├── __init__.py
