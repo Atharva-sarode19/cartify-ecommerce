@@ -32,8 +32,8 @@ cartify-ecommerce/
 │
 ├── .gitignore                    # Ignored files and folders
 ├── README.md                     # Project documentation
-├── manage.py                     # Django management script
-├── requirements.txt              # Project dependencies                     
+├── requirements.txt              # Project dependencies
+├── manage.py                     # Django management script                     
 │
 ├── OnlineShopping/               # Main Django project configuration
 │   ├── __init__.py
